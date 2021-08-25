@@ -1,5 +1,5 @@
 <resources>
-    <string name="api_key">AIzaSyBrZz_yw2Hv0HZwDmnT4ivtKOnPnvfaPic</string>
+    <string name="api_key">yourAPI Key</string>
     <string name="app_name">UberDriver</string>
     <string name="title_activity_welcome">Welcome</string>
     <string name="title_activity_driver_tracking">DriverTracking</string>
