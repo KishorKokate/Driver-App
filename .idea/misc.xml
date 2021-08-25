@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/drawable/btn_register_background.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/drawable/btn_sign_in_backgroung.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/activity_customer_call.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/activity_driver_home.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/activity_driver_tracking.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/app_bar_driver_home.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/content_driver_home.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/layout_sign_in.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/nav_header_driver_home.xml" value="0.23574144486692014" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/layout/register.xml" value="0.1" />
+        <entry key="..\:/Users/kk/AndroidStudioProjects/UberDriver/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
